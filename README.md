@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0100-same-tree) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
