@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
@@ -35,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/preethi-r04/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
